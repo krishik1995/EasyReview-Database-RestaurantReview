@@ -1,3 +1,5 @@
+![image](https://github.com/krishik1995/EasyReview-Database-RestaurantReview/blob/main/Screen%20Shot%202022-04-08%20at%202.57.29%20AM.png)
+
 # **EasyReview Database Management System** 
 
 Relational Database Management System for reviews of restaurants around College Park, MD. 
